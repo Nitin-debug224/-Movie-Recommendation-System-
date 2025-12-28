@@ -1,6 +1,7 @@
-streamlit
+flask
+gunicorn
 pandas
-requests
 numpy
-matplotlib
-jupyter
+requests
+scikit-learn
+python-dotenv
