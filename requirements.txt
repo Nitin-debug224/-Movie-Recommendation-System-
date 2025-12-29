@@ -1,6 +1,5 @@
 streamlit
 flask
-gunicorn
 pandas
 numpy
 requests
